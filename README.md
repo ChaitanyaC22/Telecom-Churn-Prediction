@@ -140,6 +140,7 @@ Finally, **recommend strategies to manage customer churn** based on your observa
 
 **Note**: Everything has to be submitted in one Jupyter notebook.
 
+
 ## Jupyter Notebook Viewer
 If you are unable to view or load the jupyter IPython notebook via Github, please click on this [link](https://nbviewer.jupyter.org/github/ChaitanyaC22/Telecom-Churn-Prediction/blob/chai_main/Telecom_Churn_Prediction.ipynb).
 Thank you!
